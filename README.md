@@ -19,7 +19,7 @@ Podejście i założenia:
 
 Jak uruchomić:
 
-- Github Pages: https://exerorr.github.io/Bartlomiej_Mroz_Web_Wroclaw/#/
+- Github Pages: https://exerorr.github.io/Bartlomiej_Mroz_Web_Wroclaw/
 
 - komenda klonowania repozytorium: git clone https://github.com/ExErorr/Bartlomiej_Mroz_Web_Wroclaw.git
 - komenda przejścia do folderu: cd Bartlomiej_Mroz_Web_Wroclaw
