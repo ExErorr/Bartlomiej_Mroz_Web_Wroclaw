@@ -19,8 +19,10 @@ Podejście i założenia:
 
 Jak uruchomić:
 
+- Github Pages: https://exerorr.github.io/Bartlomiej_Mroz_Web_Wroclaw/#/
+
 - komenda klonowania repozytorium: git clone https://github.com/ExErorr/Bartlomiej_Mroz_Web_Wroclaw.git
 - komenda przejścia do folderu: cd Bartlomiej_Mroz_Web_Wroclaw
 - komenda do instalacji zależności: npm install
 - komenda uruchomienia: npm run dev
-- adres serwera lokalneo: http://localhost:5173
+- adres serwera lokalnego: http://localhost:5173
